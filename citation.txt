@@ -1,0 +1,9 @@
+@article{REPO-113,
+    author = "Yang, Yang and Liang, Hengyue and Choi, Changhyun",
+    journal = "IEEE Robotics and Automation Letters",
+    number = "2",
+    pages = "2232--2239",
+    title = "{A Deep Learning Approach to Grasping the Invisible}",
+    volume = "5",
+    year = "2020"
+}
